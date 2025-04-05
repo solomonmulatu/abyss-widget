@@ -197,9 +197,16 @@ This url shows what's possible in a short time, even without full resources. It'
 
 ---
 
-## Estimated Timeline
 
-- **Total Duration:** 13 days.
+
+## ⏳ Estimated Timeline
+
+- **Total Duration:** 13 days
+> The implementation timeline reflects a **professional development process**, balancing speed with maintainable and scalable code quality.
+
+---
+
+Let me know if you'd like to highlight specific phases or split the days into subtasks.
 
 ### Milestones
 
