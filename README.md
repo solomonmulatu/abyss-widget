@@ -73,7 +73,7 @@ This url shows what's possible in a short time, even without full resources. It'
     - Extract colors (e.g., dark theme palette), typography, icons, and card layouts from Figma.
     - Identify responsive breakpoints (mobile, tablet, desktop).
     - **Task Owner:** UI/UX Designer & Front-end Developer.
-    - **Estimated Time:** 2 days.
+    - **Estimated Time:** 1 days.
 
 2. **Project Setup and Configuration**
     - Initialize a Next.js project with TypeScript.
@@ -81,13 +81,13 @@ This url shows what's possible in a short time, even without full resources. It'
     - Set up Redux Toolkit and RTK Query.
     - Configure ESLint and Prettier.
     - **Task Owner:** Front-end Developer.
-    - **Estimated Time:** 2 days.
+    - **Estimated Time:** 1 days.
 
 3. **Component Development**
     - Build reusable components: Card, Rating, NavigationBar, Sidebar, SearchBar, Button, Chips, Comment Boxes.
     - Ensure accessibility with React Aria (e.g., keyboard navigation, ARIA labels).
     - **Task Owner:** Front-end Developer.
-    - **Estimated Time:** 4 days.
+    - **Estimated Time:** 3 days.
 
 4. **Navigation and Routing**
     - Implement dynamic routing for pages (e.g., `/widgets`, `/widgets/[id]`).
@@ -99,19 +99,19 @@ This url shows what's possible in a short time, even without full resources. It'
     - Use Redux Toolkit for global state (e.g., filters, selected cards).
     - Implement RTK Query to fetch card data (e.g., views, ratings, details) and widget details (e.g., views, user profiles, and comments) from a backend API.
     - **Task Owner:** Front-end Developer.
-    - **Estimated Time:** 3 days.
+    - **Estimated Time:** 1 days.
 
 6. **UI/UX Implementation**
     - Ensure responsive design with Tailwind CSS breakpoints.
     - Match design fidelity (e.g., dark theme, card styling).
     - **Task Owner:** UI/UX Designer & Front-end Developer.
-    - **Estimated Time:** 3-4 days.
+    - **Estimated Time:** 2 days.
 
 7. **Performance Optimization**
     - Optimize images with Next.js Image.
     - Implement lazy loading for off-screen cards.
     - **Task Owner:** Front-end Developer.
-    - **Estimated Time:** 2 days.
+    - **Estimated Time:** 1 days.
 
 8. **Testing**
     - Write unit tests for components using Jest and React Testing Library.
@@ -124,7 +124,7 @@ This url shows what's possible in a short time, even without full resources. It'
     - Deploy to Vercel.
     - Gather feedback and iterate.
     - **Task Owner:** DevOps & Team.
-    - **Estimated Time:** 2 days.
+    - **Estimated Time:** 1 days.
 
 ---
 
@@ -199,7 +199,7 @@ This url shows what's possible in a short time, even without full resources. It'
 
 ## Estimated Timeline
 
-- **Total Duration:** 20-21 days.
+- **Total Duration:** 13 days.
 
 ### Milestones
 
