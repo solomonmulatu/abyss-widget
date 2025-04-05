@@ -1,6 +1,8 @@
 
 # Development Plan for Widget UI Design Implementation
-
+<p align="center">
+  <a href="https://abyss-widget.vercel.app"><img height="300" src="/screenshot.png" alt="screen shot"></a>
+</p>
 ## Introduction
 
 This development plan outlines the strategy to transform the Figma design (Widget_List_Page and Single_Widget_Page) into a functional web application. The plan includes a breakdown of sub-tasks, strategies for components, navigation, state management, and data fetching, as well as focuses on UI/UX, performance, testing, timeline, potential blockers, and collaboration needs.
