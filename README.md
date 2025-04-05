@@ -27,7 +27,7 @@ This url shows what's possible in a short time, even without full resources. It'
 - **Iconify React**
 - **React Content Loader**
 
-> ⚠️ Some planned tools like **Redux**, **SCSS**, and **RTK Query** were not used due to time constraints.
+> ⚠️ Some planned tools like **Redux**, and **SCSS** were not used due to time constraints.
 
 ---
 
